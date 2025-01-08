@@ -6,6 +6,6 @@ public class mayank {
 	
 	public static void main(String [] args)
 	{
-		System.out.println("Changes done");
+		System.out.println("Changes done successfully");
 		}
 }
